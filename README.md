@@ -6,6 +6,8 @@ all circuits in eagle.
 
 firmware: https://github.com/monome/teletype
 
+BOM: https://octopart.com/bom-tool/cjqXTx5c
+
 ## license
 
 cc-by-sa-3.0
