@@ -6,7 +6,11 @@ all circuits in eagle.
 
 firmware: https://github.com/monome/teletype
 
-BOM: https://octopart.com/bom-tool/cjqXTx5c
+## BOM
+
+- components: https://octopart.com/bom-tool/cjqXTx5c
+- mechanical
+  - mcmaster: 91780A023, 91772A077, 91772A073
 
 ## license
 
