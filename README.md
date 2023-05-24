@@ -9,7 +9,7 @@ firmware: https://github.com/monome/teletype
 ## BOM
 
 - components: https://octopart.com/bom-tool/cjqXTx5c
-- mechanical
+- mechanical (screws and spacers)
   - mcmaster: 91780A023, 91772A077, 91772A073
 
 ## license
