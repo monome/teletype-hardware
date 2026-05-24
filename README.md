@@ -19,7 +19,7 @@ firmware: https://github.com/monome/teletype
 
 ## license
 
-(cc-by-sa-3.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[cc-by-sa-3.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 commerical use: send $10 per unit produced to tehn@nnnnnnnn.co via paypal
 
