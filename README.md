@@ -4,7 +4,9 @@
 
 eurorack module by https://monome.org
 
-all circuits in eagle.
+created by brian crabtree (bcrabtree@monome.org)
+
+all circuits in eagle. can be imported to kicad.
 
 firmware: https://github.com/monome/teletype
 
@@ -17,9 +19,16 @@ firmware: https://github.com/monome/teletype
 
 ## license
 
-cc-by-sa-3.0
+(cc-by-sa-3.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+commerical use: send $10 per unit produced to tehn@nnnnnnnn.co via paypal
 
 do not use the name "monome" or "teletype" in derivative works.
 
-created by brian crabtree (bcrabtree@monome.org)
+## warranty and support
 
+we can provide neither
+
+## thank you
+
+everyone who helped this module live
