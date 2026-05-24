@@ -1,3 +1,5 @@
+![](teletype.jpg)
+
 # teletype hardware
 
 eurorack module by https://monome.org
@@ -8,7 +10,8 @@ firmware: https://github.com/monome/teletype
 
 ## BOM
 
-- components: https://octopart.com/bom-tool/cjqXTx5c
+- components: see ods
+- octopart: https://octopart.com/bom-tool/cjqXTx5c
 - mechanical (screws and spacers)
   - mcmaster: 91780A023, 91772A077, 91772A073
 
